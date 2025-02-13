@@ -1,4 +1,4 @@
-#!/home/yellow/Escritorio/Sellos/venv/bin/python3
+#!/home/yellow/Escritorio/Sellosv3_definitivo/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
